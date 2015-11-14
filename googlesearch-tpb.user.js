@@ -221,7 +221,7 @@ if (document.getElementById('lst-ib') != null) {
 
                 tpbDiv.setAttribute('class', 'hdtb-mitem hdtb-imb');
                 tpbDiv.setAttribute('id', 'tpb-div');
-                tpbLink.innerText = 'TPB';
+                tpbLink.innerHTML = 'TPB';
                 tpbLink.setAttribute('class', 'q qs');
                 tpbLink.setAttribute('id', 'tpb-link')
 
