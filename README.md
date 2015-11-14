@@ -12,4 +12,4 @@ A UserScript that adds a link to search ThePirateBay when using Google Search.
 
 Here you go.
 
-![Screenshot](https://raw.githubusercontent.com/eternaleclipse/GoogleSearch-TPB/master/Capture.PNG)
+![Screenshot](https://raw.githubusercontent.com/eternaleclipse/GoogleSearch-TPB/master/screenshot.png)
